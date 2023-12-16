@@ -117,7 +117,7 @@ function get_mpv_local_version() {
  * @param {Function} cb
  */
 function get_config_remote_version(cb) {
-    http.get('https://api.github.com/repos/Hill-98/mpv-config/commits/main', {
+    http.get('https://api.github.com/repos/NineMeowICT/mpv-config/commits/main', {
         headers: {
             'Accept': 'application/vnd.github+json',
         },
