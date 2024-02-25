@@ -32,7 +32,3 @@ MPV config file with homebrew script with some optimization experience
 [tomasklaen/uosc](https://github.com/tomasklaen/uosc)
 
 [VideoPlayerCode/mpv-tools](https://github.com/VideoPlayerCode/mpv-tools)
-
-感谢 [JetBrains](https://www.jetbrains.com) 提供 JetBrains IDE [开源许可证](https://jb.gg/OpenSourceSupport)
-
-<a href="https://jb.gg/OpenSourceSupport"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="JetBrains Logo (Main) logo." width="256px" height="256px"></a>
