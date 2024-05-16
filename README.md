@@ -1,4 +1,4 @@
-# mpv config
+# mpv config for Linux
 MPV config file with homebrew script with some optimization experience
 
 
@@ -6,12 +6,6 @@ MPV config file with homebrew script with some optimization experience
 ## Acknowledge
 
 [mpv-player](https://github.com/mpv-player) 
-
-[文泉驿](http://wenq.org/)
-
-[agyild/NVScaler.glsl](https://gist.github.com/agyild/7e8951915b2bf24526a9343d951db214)
-
-[bjin/mpv-prescalers](https://github.com/bjin/mpv-prescalers)
 
 [bloc97/Anime4K](https://github.com/bloc97/Anime4K)
 
@@ -26,8 +20,6 @@ MPV config file with homebrew script with some optimization experience
 [igv/SSimSuperRes.glsl](https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b)
 
 [natural-harmonia-gropius/input-event](https://github.com/natural-harmonia-gropius/input-event)
-
-[TianZerL/ACNetGLSL](https://github.com/TianZerL/ACNetGLSL)
 
 [tomasklaen/uosc](https://github.com/tomasklaen/uosc)
 
