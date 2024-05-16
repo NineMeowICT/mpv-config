@@ -1,0 +1,30 @@
+[submodule "git-modules/mpv-scripts"]
+	path = git-modules/mpv-scripts
+	url = https://github.com/CogentRedTester/mpv-scripts.git
+[submodule "git-modules/ACNetGLSL"]
+	path = git-modules/ACNetGLSL
+	url = https://github.com/TianZerL/ACNetGLSL.git
+[submodule "git-modules/uosc"]
+	path = git-modules/uosc
+	url = https://github.com/tomasklaen/uosc.git
+[submodule "git-modules/SSimSuperRes"]
+	path = git-modules/SSimSuperRes
+	url = https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b.git
+[submodule "git-modules/SSimDownscaler"]
+	path = git-modules/SSimDownscaler
+	url = https://gist.github.com/igv/36508af3ffc84410fe39761d6969be10.git
+[submodule "git-modules/KrigBilateral"]
+	path = git-modules/KrigBilateral
+	url = https://gist.github.com/igv/a015fc885d5c22e6891820ad89555637.git
+[submodule "git-modules/NVScaler"]
+	path = git-modules/NVScaler
+	url = https://gist.github.com/agyild/7e8951915b2bf24526a9343d951db214.git
+[submodule "git-modules/VideoPlayerCode-mpv-tools"]
+	path = git-modules/VideoPlayerCode-mpv-tools
+	url = https://github.com/VideoPlayerCode/mpv-tools.git
+[submodule "git-modules/mpv-javascript-http"]
+	path = git-modules/mpv-javascript-http
+	url = https://github.com/Hill-98/mpv-javascript-http.git
+[submodule "git-modules/input-event"]
+	path = git-modules/input-event
+	url = https://github.com/natural-harmonia-gropius/input-event.git
