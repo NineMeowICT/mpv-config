@@ -19,8 +19,8 @@ MPV config file with homebrew script with some optimization experience
 
 [igv/SSimSuperRes.glsl](https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b)
 
-[natural-harmonia-gropius/input-event](https://github.com/natural-harmonia-gropius/input-event)
-
 [tomasklaen/uosc](https://github.com/tomasklaen/uosc)
 
-[VideoPlayerCode/mpv-tools](https://github.com/VideoPlayerCode/mpv-tools)
+[Artoriuz/ArtCNN](https://github.com/Artoriuz/ArtCNN)
+
+[igv/adaptive-sharpen.glsl](https://gist.github.com/igv/8a77e4eb8276753b54bb94c1c50c317e)
